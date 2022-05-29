@@ -13,4 +13,4 @@ Cand8_Strawberries2_20220309_planteye.csv \
 \
 Files writen by myself: \
 leaf_area_imagej.csv       <- This is the measured leaf area aquired from printer scans and with the use of ImageJ \
-Manual_measruements.csv      <- These are the the other measurements aquired with manual phenotyping methods
+Manual_measruements.csv      <- This is the the other measurements aquired with manual phenotyping methods
